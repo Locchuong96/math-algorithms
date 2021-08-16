@@ -222,8 +222,8 @@ class features_detection:
 		new_rep = [] # the new representation of the features
 
 		for feature in self.FEATURES:
+			#[[m,b],endpoints]
 			projection = self.projection_point2line((0,0),feature[0][0],feature[0][1])
-			# [ [m,b], [(,),(,)], (,) ]
 			new_rep.append([feature[0],feature[1],projection])
 
 		return new_rep
@@ -251,6 +251,7 @@ def landmark_association(landmarks):
 		flag = False
 
 		for i,Landmark in enumerate(Landmarks):
+			#[[ [m,b], endpoints, projection_point ],...]
 			dist = dist_point2point( l[2] , Landmark[2] )
 			if dist < thresh:
 				if not is_overlap(l[1],Landmark[1]):
