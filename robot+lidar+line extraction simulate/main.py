@@ -27,10 +27,6 @@ lidar = sensors.lidar_sensor(range = 200, map = background, sigma_distance = 0.5
 # create features extractor
 feature_map = features.features_detection()
 
-def random_color():
-	levels = range(32,256,32)
-	return tuple(random.choice(levels) for _ in range(3))
-
 if __name__ == "__main__":
 
 	while True:
@@ -46,7 +42,6 @@ if __name__ == "__main__":
 			if event.type == pygame.QUIT:
 				pygame.quit()
 				quit()
-
 		model.move()
 
 		lidar.position = (model.x,model.y)
