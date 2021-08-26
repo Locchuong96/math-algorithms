@@ -6,3 +6,4 @@ Math, algorithm and control method
 ## 3/ RRT algorithm and draw map with obstacle
 ## 4/ follow a pathway free obstacle with the map
 ## 5/ follow a pathway avoid obstacle with the map
+## 6/ invert kinetic robot follow a guide point
