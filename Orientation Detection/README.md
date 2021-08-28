@@ -1,3 +1,8 @@
+## ESP8266 link
+
+https://dl.espressif.com/dl/package_esp32_index.json,
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ## Arduino github library
 
 https://github.com/bolderflight/MPU9250
