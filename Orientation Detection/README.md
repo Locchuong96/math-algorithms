@@ -1,3 +1,6 @@
+## Arduino Serial references Communication 
+file:///D:/VVSolutions/Robot/4_IMU%20orientation%20detection/pyserial.pdf
+
 ## ESP8266 link
 
 https://dl.espressif.com/dl/package_esp32_index.json,
