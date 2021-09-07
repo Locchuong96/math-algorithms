@@ -4,6 +4,7 @@ Math, algorithm and control method
 ![Capture2](https://user-images.githubusercontent.com/73679364/132263031-3436c383-d339-4baa-ba31-9a0d07108f56.PNG)
 ## 2/ Kalman filter and Extended Kalman filter
 ![Capture](https://user-images.githubusercontent.com/73679364/132263046-b24b14e3-b729-4b04-a746-febc36faab35.PNG)
+![Capture](https://user-images.githubusercontent.com/73679364/132270250-6844543c-02e4-4005-ac60-6a5e536f5f87.PNG)
 ![Untitled](https://user-images.githubusercontent.com/73679364/132266456-bb92d6a6-5739-4a21-9cbd-beee8c99adeb.png)
 ## 3/ Orientation detection
 ![Capture5](https://user-images.githubusercontent.com/73679364/132263237-1a38a34d-5706-4bce-b689-b35a14b868fb.PNG)
