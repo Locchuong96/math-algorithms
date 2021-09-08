@@ -27,8 +27,8 @@ class EKF_sensor:
         self.R = np.eye(nval)             # mesurement noise matrix          shape (nval,nval)
         self.v = np.ones((nval,1)) * 1e-3  # observation noise                shape (nval,1)
         self.u = np.zeros((nval,1))       # control vector                   shape (nval,1)
-        
-        print(self.nval)
+
+        #print(self.nval)
     
     def calc_hat(self,z):
         # Read the sensor input
