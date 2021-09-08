@@ -22,3 +22,4 @@ https://youtu.be/Nbl9-oDwp-Q
 ## 10/ Follow a pathway free obstacle with the map
 ## 11/ Follow a pathway avoid obstacle with the map
 ## 12/ Invert kinetic robot follow a guide point
+## 13/ Realtime plot
