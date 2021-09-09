@@ -7,6 +7,7 @@ Math, algorithm and control method
 ![Capture](https://user-images.githubusercontent.com/73679364/132270250-6844543c-02e4-4005-ac60-6a5e536f5f87.PNG)
 ![Untitled](https://user-images.githubusercontent.com/73679364/132266456-bb92d6a6-5739-4a21-9cbd-beee8c99adeb.png)
 ## 3/ Orientation detection
+references: https://thepoorengineer.com/en/ekf-impl/
 ![Capture5](https://user-images.githubusercontent.com/73679364/132263237-1a38a34d-5706-4bce-b689-b35a14b868fb.PNG)
 ## 4/ Line feature extraction
 https://youtu.be/wDj2tmTyqrA
