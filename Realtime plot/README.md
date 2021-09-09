@@ -34,6 +34,4 @@
 
 New version v6 is different
 
-![Capture9](https://user-images.githubusercontent.com/73679364/132607249-b1bb01dd-61a7-43bb-a518-4de07975b662.PNG)
-
 ![Capture8](https://user-images.githubusercontent.com/73679364/132607167-62b8eba0-bb7a-43eb-8969-c3deef82fb2a.PNG)
