@@ -20,6 +20,8 @@ https://youtu.be/wDj2tmTyqrA
 https://youtu.be/Nbl9-oDwp-Q
 ![Capture](https://user-images.githubusercontent.com/73679364/130902243-a99b9fda-5da5-4743-98d4-8880c256269b.PNG)
 ## 6/ RPlidar A1 driver
+#### Follow this instruction
+https://github.com/SkoltechRobotics/rplidar
 ## 7/ Aware obstacle
 ## 8/ RRT algorithm and draw map
 ## 9/ RRT algorithm and draw map with obstacle
