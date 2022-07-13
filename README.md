@@ -29,8 +29,6 @@ Math, algorithm and control method
 
 **11/ Follow a pathway free obstacle with the map** [link]()
 
-**12/ Follow a pathway avoid obstacle with the map** [link]()
+**12/ Invert kinetic robot follow a guide point** [link]()
 
-**13/ Invert kinetic robot follow a guide point** [link]()
-
-**14/ Realtime plot** [link](https://github.com/Locchuong96/math-algorithms/tree/main/Realtime%20plot)
+**13/ Realtime plot** [link](https://github.com/Locchuong96/math-algorithms/tree/main/Realtime%20plot)
