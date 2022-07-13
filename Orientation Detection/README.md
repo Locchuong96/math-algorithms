@@ -1,4 +1,5 @@
 **Arduino Serial references Communication**
+
 https://www.arduino.cc/reference/en/language/functions/communication/serial/
 
 **ESP8266 link**
